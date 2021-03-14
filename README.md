@@ -16,6 +16,7 @@ This bot will show who invited who. It's recording and showing the total count o
 
 # Setup
 > **Open PowerShell** or  **CMD** 
+![]()
 > [Host] **Heroku** or **UPTIMEROBOT**
 
 ![]()
